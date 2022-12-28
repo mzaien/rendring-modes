@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+img{
+  border: 4px dashed greenyellow;
+  border-radius: 2rem;
+  margin-top: 1rem;
+}

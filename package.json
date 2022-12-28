@@ -1,5 +1,5 @@
 {
-  "name": "next-rendring-modes",
+  "name": "next-rendering-modes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.1",
+    "@supabase/supabase-js": "^2.2.2",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.10",
